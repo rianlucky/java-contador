@@ -33,7 +33,7 @@ public class Contador {
 
     }
     static void ParametrosInvalidosException(){
-        System.out.println("O segundo parâmetro deve ser maior que o primeiro");
+        System.out.println("O segundo parâmetro deve ser maior que o primeiro!");
         System.out.println("Reiniciando programa...");
         
         recolherDados();
